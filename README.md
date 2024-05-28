@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-**m4llyky/m4llyky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Boas vindas ao meu perfil 💙💙
 Meu nome é Mell Cristine :)
 
 Estou estudando na Alura
